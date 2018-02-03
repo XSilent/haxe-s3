@@ -1,0 +1,11 @@
+-cp src
+-dce no 
+--each
+
+#-main examples.S3Examples
+-main s3.S3Client
+-js bin/app.js
+
+--next
+-main examples.S3Examples
+-php bin

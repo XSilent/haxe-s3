@@ -1,0 +1,13 @@
+{
+  "name": "haxe-S3",
+  "license": "MIT",
+  "tags": ["cross"],
+  "description": "A Haxe library for Amazon S3.",
+  "contributors": ["Michael Neuhaus"],
+  "releasenote": "First Version.",
+  "version": "0.1.0",
+  "url": "https://github.com/xsilent/haxe-s3",
+  "dependencies": {
+
+  }
+}
